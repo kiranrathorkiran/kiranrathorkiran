@@ -19,7 +19,7 @@ I'm kiran rathor, A Curious person with a passion for exploring the vast world o
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiran-rathor-837890284)  [![x.com](https://img.shields.io/badge/x.com-%23000000.svg?logo=x.com&logoColor=white)](https://x.com/__kiranrathor__) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:kiranrathor8085@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=kiranrathorkiran)
 
 
 # 💻 Tech Stack:
